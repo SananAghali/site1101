@@ -1,9 +1,10 @@
 # Site Settings
-title: SITE 1101 Portfolio
-description: A professional portfolio website built with Jekyll
-author: Your Name
-email: your.email@example.com
-url: https://yourusername.github.io
+title: "My Portfolio"
+email: "your_email@example.com"
+description: "Student portfolio for SITE 1101"
+baseurl: "/site1101"   # repo adın
+url: "https://SananAghali.github.io"
+
 baseurl: "" # leave empty if using custom domain, or "/repository-name" if using project pages
 
 # Build Settings

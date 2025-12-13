@@ -2,10 +2,9 @@
 title: "My Portfolio"
 email: "your_email@example.com"
 description: "Student portfolio for SITE 1101"
-baseurl: "/site1101"   # repo adın
+baseurl: "/site1101"   # vacib: /site1101 olmalı
 url: "https://SananAghali.github.io"
 
-baseurl: "" # leave empty if using custom domain, or "/repository-name" if using project pages
 
 # Build Settings
 theme: minima

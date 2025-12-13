@@ -1,0 +1,39 @@
+<footer class="footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>{{ site.title }}</h3>
+                <p>{{ site.description }}</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/about' | relative_url }}">About</a></li>
+                    <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
+                    <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Connect</h3>
+                <div class="social-links">
+                    <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    <a href="https://www.codecademy.com/profiles/{{ site.codecademy_username }}" target="_blank" rel="noopener noreferrer" aria-label="Codecademy">
+                        <i class="fas fa-code"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+            <p>
+                <a href="https://github.com/{{ site.github_username }}/{{ site.github_username }}.github.io" target="_blank" rel="noopener noreferrer">
+                    View Source on GitHub <i class="fab fa-github"></i>
+                </a>
+            </p>
+        </div>
+    </div>
+</footer>
+

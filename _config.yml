@@ -1,8 +1,8 @@
 # Site Settings
-title: "My Portfolio"
-email: "your_email@example.com"
-description: "Student portfolio for SITE 1101"
-baseurl: "/site1101"   # vacib: /site1101 olmalı
+title: "Sanan Aghali"
+email: "saghali24031@ada.edu.az"  
+description: "Computer Engineering student with a strong interest in web development"
+baseurl: "/site1101"   
 url: "https://SananAghali.github.io"
 
 
@@ -24,8 +24,8 @@ navigation:
     url: /contact
 
 # Social Links
-github_username: yourusername
-codecademy_username: yourusername
+github_username: SananAghali
+codecademy_username: Sanan_Aghali
 
 # Exclude from processing
 exclude:

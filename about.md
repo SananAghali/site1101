@@ -37,7 +37,7 @@ description: Learn more about me and my journey
                     <span class="skill-tag">Jekyll</span>
                     <span class="skill-tag">Git</span>
                     <span class="skill-tag">GitHub Pages</span>
-                    <span class="skill-tag">Responsive Design</span>
+                    <span class="skill-tag">Web Development Fundamentals</span>
                 </div>
             </div>
         </div>
@@ -62,8 +62,8 @@ description: Learn more about me and my journey
                     <i class="fas fa-code"></i>
                 </div>
                 <div class="education-content">
-                    <h3>Codecademy</h3>
-                    <p>Building skills through hands-on projects and interactive learning.</p>
+                    <h3>Online Learning Platforms</h3>
+                    <p>Developing technical skills through structured online courses and practical exercises.</p>
                 </div>
             </div>
         </div>

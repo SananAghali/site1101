@@ -56,8 +56,17 @@ description: Learn more about me and my journey
                     <i class="fas fa-graduation-cap"></i>
                 </div>
                 <div class="education-content">
+                    <h3>ADA University – Computer Engineering</h3>
+                    <p>I am currently a first-year Computer Engineering student at ADA University, building a solid foundation in computing, programming, and information systems.</p>
+                </div>
+            </div>
+            <div class="education-item">
+                <div class="education-icon">
+                    <i class="fas fa-graduation-cap"></i>
+                </div>
+                <div class="education-content">
                     <h3>Continuous Learning</h3>
-                    <p>Always learning new technologies and improving my skills through online courses and practice.</p>
+                    <p>In addition to my formal studies, I continuously learn new technologies and improve my skills through online courses and independent projects.</p>
                 </div>
             </div>
             <div class="education-item">
@@ -66,10 +75,11 @@ description: Learn more about me and my journey
                 </div>
                 <div class="education-content">
                     <h3>Online Learning Platforms</h3>
-                    <p>Developing technical skills through structured online courses and practical exercises.</p>
+                    <p>Developing technical skills through structured online courses and practical exercises, complementing my studies at ADA University.</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
 

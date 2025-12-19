@@ -284,15 +284,21 @@ body {
 
 .about-grid-paragraphs {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Desktop → 2 sütun */
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 2rem;
-    margin-top: 1.5rem;
+    width: 100%;
+}
+
+.about-grid-paragraphs p {
+    margin: 0;
+    text-align: left;
+    line-height: 1.9;
 }
 
 @media (max-width: 768px) {
     .about-grid-paragraphs {
         grid-template-columns: 1fr; /* Mobil → alt-alta */
-        gap: 1.5rem;
+        
     }
 }
 

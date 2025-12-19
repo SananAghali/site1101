@@ -16,21 +16,21 @@ description: Learn more about me and my journey
         <div class="about-grid">
             <div class="about-text">
                 <h2>Academic Background and Interests</h2>
-                <p>
-                   My name is Sanan Aghali, and I am a first-year Computer Engineering student at ADA University. I am currently enrolled in the major program, where I am developing a strong foundation in computing, programming, and information systems. In the previous academic year, I successfully completed the EAPP (English for Academic and Professional Purposes) course, which contributed to the development of my academic writing and communication skills.
-                </p>
-
-                <p>
-                    I am currently studying web development with an emphasis on full-stack technologies. Through coursework and independent learning, I have acquired practical skills in HTML, CSS, JavaScript, Git, and GitHub. These skills have enabled me to design, develop, and manage web-based projects effectively.
-                </p>
                 <div class="about-grid-paragraphs">
-    <p>
-        My primary academic interest lies in backend development, and I plan to further specialize in this area. Following my studies in web development, I intend to expand my knowledge into the fields of Artificial Intelligence and Data Science, which I believe are essential areas within modern computer engineering.
-    </p>
-    <p>
-        In addition to my academic pursuits, I play chess, an activity that enhances my analytical thinking, strategic planning, and problem-solving abilities. I am highly motivated, enjoy programming, and am committed to continuous learning and professional development in the field of computer engineering.
-    </p>
-</div>
+                    <p>
+                        My name is Sanan Aghali, and I am a first-year Computer Engineering student at ADA University.
+                    </p>
+                    <p>
+                        I am currently studying web development with an emphasis on full-stack technologies.
+                    </p>
+                    <p>
+                        My primary academic interest lies in backend development, and I plan to further specialize in this area.
+                    </p>
+                    <p>
+                        In addition to my academic pursuits, I play chess, an activity that enhances my analytical thinking.
+                    </p>
+                </div>
+
 
                 <h3>Skills & Technologies</h3>
                 <div class="skills-list">

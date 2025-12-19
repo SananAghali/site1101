@@ -23,12 +23,15 @@ description: Learn more about me and my journey
                 <p>
                     I am currently studying web development with an emphasis on full-stack technologies. Through coursework and independent learning, I have acquired practical skills in HTML, CSS, JavaScript, Git, and GitHub. These skills have enabled me to design, develop, and manage web-based projects effectively.
                 </p>
-                <p>
-                    My primary academic interest lies in backend development, and I plan to further specialize in this area. Following my studies in web development, I intend to expand my knowledge into the fields of Artificial Intelligence and Data Science, which I believe are essential areas within modern computer engineering.
-                </p>
-                <p>
-                    In addition to my academic pursuits, I play chess, an activity that enhances my analytical thinking, strategic planning, and problem-solving abilities. I am highly motivated, enjoy programming, and am committed to continuous learning and professional development in the field of computer engineering.
-                </p>
+                <div class="about-grid-paragraphs">
+    <p>
+        My primary academic interest lies in backend development, and I plan to further specialize in this area. Following my studies in web development, I intend to expand my knowledge into the fields of Artificial Intelligence and Data Science, which I believe are essential areas within modern computer engineering.
+    </p>
+    <p>
+        In addition to my academic pursuits, I play chess, an activity that enhances my analytical thinking, strategic planning, and problem-solving abilities. I am highly motivated, enjoy programming, and am committed to continuous learning and professional development in the field of computer engineering.
+    </p>
+</div>
+
                 <h3>Skills & Technologies</h3>
                 <div class="skills-list">
                     <span class="skill-tag">HTML</span>

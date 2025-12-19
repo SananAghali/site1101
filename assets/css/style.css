@@ -281,6 +281,21 @@ body {
 }
 
 /* About Page */
+
+.about-grid-paragraphs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-top: 1.5rem; /* İstəsən paraqraflar ilə yuxarı yazı arası boşluq */
+}
+
+@media (max-width: 768px) {
+    .about-grid-paragraphs {
+        grid-template-columns: 1fr; /* Mobil üçün alt-alta */
+        gap: 1.5rem;
+    }
+}
+
 .about-content {
     padding: 60px 0;
 }

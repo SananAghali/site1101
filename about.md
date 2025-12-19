@@ -65,8 +65,8 @@ description: Learn more about me and my journey
                     <i class="fas fa-graduation-cap"></i>
                 </div>
                 <div class="education-content">
-                    <h3>Continuous Learning</h3>
-                    <p>In addition to my formal studies, I continuously learn new technologies and improve my skills through online courses and independent projects.</p>
+                    <h3>Div Academy – Full-Stack Development</h3>
+                    <p>Enhancing my technical skills by participating in the Full-Stack Development program at Div Academy, complementing my studies at ADA University.</p>
                 </div>
             </div>
             <div class="education-item">
@@ -81,5 +81,6 @@ description: Learn more about me and my journey
         </div>
     </div>
 </section>
+
 
 

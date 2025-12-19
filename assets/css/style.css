@@ -336,6 +336,9 @@ body {
     margin: 2rem 0 1rem;
     color: var(--text-color);
 }
+.about-content .about-grid {
+    grid-template-columns: 1fr !important;
+}
 
 .skills-list {
     display: flex;

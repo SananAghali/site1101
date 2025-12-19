@@ -15,16 +15,19 @@ description: Learn more about me and my journey
     <div class="container">
         <div class="about-grid">
             <div class="about-text">
-                <h2>Hello, I'm a Developer</h2>
+                <h2>Academic Background and Interests</h2>
                 <p>
-                    Welcome to my portfolio! I'm passionate about creating beautiful, functional, 
-                    and user-friendly websites. I enjoy learning new technologies and applying them 
-                    to solve real-world problems.
+                   My name is Sanan Aghali, and I am a first-year Computer Engineering student at ADA University. I am currently enrolled in the major program, where I am developing a strong foundation in computing, programming, and information systems. In the previous academic year, I successfully completed the EAPP (English for Academic and Professional Purposes) course, which contributed to the development of my academic writing and communication skills.
+                </p>
+
+                <p>
+                    I am currently studying web development with an emphasis on full-stack technologies. Through coursework and independent learning, I have acquired practical skills in HTML, CSS, JavaScript, Git, and GitHub. These skills have enabled me to design, develop, and manage web-based projects effectively.
                 </p>
                 <p>
-                    My journey in web development started with curiosity and has evolved into a 
-                    passion for creating digital experiences that make a difference. I believe 
-                    in writing clean, maintainable code and following best practices.
+                    My primary academic interest lies in backend development, and I plan to further specialize in this area. Following my studies in web development, I intend to expand my knowledge into the fields of Artificial Intelligence and Data Science, which I believe are essential areas within modern computer engineering.
+                </p>
+                <p>
+                    In addition to my academic pursuits, I play chess, an activity that enhances my analytical thinking, strategic planning, and problem-solving abilities. I am highly motivated, enjoy programming, and am committed to continuous learning and professional development in the field of computer engineering.
                 </p>
                 <h3>Skills & Technologies</h3>
                 <div class="skills-list">
@@ -35,12 +38,6 @@ description: Learn more about me and my journey
                     <span class="skill-tag">Git</span>
                     <span class="skill-tag">GitHub Pages</span>
                     <span class="skill-tag">Responsive Design</span>
-                </div>
-            </div>
-            <div class="about-image">
-                <div class="image-placeholder">
-                    <i class="fas fa-user"></i>
-                    <p>Your Photo Here</p>
                 </div>
             </div>
         </div>

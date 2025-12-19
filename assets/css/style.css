@@ -292,21 +292,16 @@ body {
 .about-grid-paragraphs p {
     margin: 0;
     text-align: left;
+    color: var(--text-light);
     line-height: 1.9;
 }
 
 @media (max-width: 768px) {
     .about-grid-paragraphs {
         grid-template-columns: 1fr; /* Mobil → alt-alta */
-        
     }
 }
 
-.about-grid-paragraphs p {
-    color: var(--text-light);
-    line-height: 1.8;
-    margin: 0;
-}
 
 
 .about-content {

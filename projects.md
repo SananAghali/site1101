@@ -36,9 +36,7 @@ description: Check out my latest projects and work
                                 <i class="fas fa-external-link-alt"></i> Live Demo
                         </a>
 
-                        <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
-                            <i class="fab fa-github"></i> Source Code
-                        </a>
+                        
                     </div>
                 </div>
             </div>
@@ -65,9 +63,7 @@ description: Check out my latest projects and work
                                 <i class="fas fa-external-link-alt"></i> Live Demo
                         </a>
 
-                        <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
-                            <i class="fab fa-github"></i> Source Code
-                        </a>
+                        
                     </div>
                 </div>
             </div>

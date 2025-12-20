@@ -736,6 +736,12 @@ body {
 .footer-bottom a:hover {
     opacity: 1;
 }
+.social-logo {
+    width: 28px;
+    height: auto;
+    vertical-align: middle;
+}
+
 
 /* Animations */
 @keyframes fadeInUp {

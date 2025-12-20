@@ -20,9 +20,7 @@ description: Get in touch with me
                 <p>Feel free to reach out through any of these channels:</p>
                 
                 <div class="contact-item">
-                    <div class="contact-icon">
-                        <img src="{{ '/assets/images/email.png' | relative_url }}" alt="Email" class="contact-logo">
-                    </div>
+                    
                     <div class="contact-details">
                         <h3>Email</h3>
                         <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
@@ -30,9 +28,7 @@ description: Get in touch with me
                 </div>
 
                 <div class="contact-item">
-                    <div class="contact-icon">
-                        <img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" class="contact-logo">
-                    </div>
+                    
                     <div class="contact-details">
                         <h3>GitHub</h3>
                         <p><a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">github.com/{{ site.github_username }}</a></p>
@@ -40,9 +36,7 @@ description: Get in touch with me
                 </div>
 
                 <div class="contact-item">
-                    <div class="contact-icon">
-                        <img src="{{ '/assets/images/codecademy.png' | relative_url }}" alt="Codecademy" class="contact-logo">
-                    </div>
+                    
                     <div class="contact-details">
                         <h3>Codecademy</h3>
                         <p><a href="https://www.codecademy.com/profiles/{{ site.codecademy_username }}" target="_blank" rel="noopener noreferrer">codecademy.com/profiles/{{ site.codecademy_username }}</a></p>

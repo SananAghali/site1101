@@ -29,7 +29,7 @@ description: Check out my latest projects and work
                         <span class="tag">Electronics</span>
                     </div>
                     <div class="project-links">
-                        <a href="https://youtu.be/OmDdKfLJRE?si=DJI7PmpJq--VJ3mp"
+                        <a href="https://www.youtube.com/watch?v=O-mDdKfLJRE"
                             class="project-link"
                             target="_blank"
                             rel="noopener noreferrer">

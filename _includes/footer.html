@@ -18,11 +18,13 @@
                 <h3>Connect</h3>
                 <div class="social-links">
                     <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-                        <img src="../assets/images/github.png" alt="GitHub" class="social-logo">
+                        <img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" class="social-logo">
+
 
                     </a>
                     <a href="https://www.codecademy.com/profiles/{{ site.codecademy_username }}" target="_blank" rel="noopener noreferrer" aria-label="Codecademy">
-                        <img src="../assets/images/codecademy.png" alt="Codecademy" class="social-logo">
+                        <img src="{{ '/assets/images/codecademy.png' | relative_url }}" alt="Codecademy" class="social-logo">
+
 
                     </a>
                 </div>
@@ -32,7 +34,7 @@
             <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
             <p>
                 <a href="https://github.com/SananAghali/site1101" target="_blank" rel="noopener noreferrer">
-                    View Source on GitHub <i class="fab fa-github"></i>
+                    View Source on GitHub </i>
                 </a>
                 
             </p>

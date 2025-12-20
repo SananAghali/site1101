@@ -21,12 +21,12 @@ description: Check out my latest projects and work
                     </div>
                 </div>
                 <div class="project-content">
-                    <h3>Project One</h3>
-                    <p>A description of your first project. Explain what it does, what technologies you used, and what you learned from it.</p>
+                    <h3>Project One - Logic Gates</h3>
+                    <p>This project was completed for SITE 1101 and focused on understanding how hardware works by building basic logic gates (NOT, AND, OR) using electronic components. As members of Group 22, we collaborated with other teams to construct NAND and XOR gates as bonus tasks. The project improved my understanding of digital logic, hardware fundamentals, and teamwork.</p>
                     <div class="project-tags">
-                        <span class="tag">HTML</span>
-                        <span class="tag">CSS</span>
-                        <span class="tag">JavaScript</span>
+                        <span class="tag">Gates</span>
+                        <span class="tag">Hardware</span>
+                        <span class="tag">Electronics</span>
                     </div>
                     <div class="project-links">
                         <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
@@ -46,12 +46,12 @@ description: Check out my latest projects and work
                     </div>
                 </div>
                 <div class="project-content">
-                    <h3>Project Two</h3>
-                    <p>A description of your second project. Explain what it does, what technologies you used, and what you learned from it.</p>
+                    <h3>Project Two – Hour of Code (Hour of AI)</h3>
+                    <p>This team project was completed for SITE 1101 as part of the Hour of Code / Hour of AI initiative. As Group 22, we organized an educational session at Əsgər Veysəlov adına Sirik kənd orta məktəbi for 20 participants. We introduced the basics of Artificial Intelligence and guided students through hands-on activities using Bug Arena. Despite limited technological resources, we actively engaged students and shared our knowledge to inspire their curiosity about computer science.</p>
                     <div class="project-tags">
-                        <span class="tag">Jekyll</span>
-                        <span class="tag">GitHub Pages</span>
-                        <span class="tag">Responsive</span>
+                        <span class="tag">Hour of Code</span>
+                        <span class="tag">Artificial Intelligence</span>
+                        <span class="tag">Community Engagement</span>
                     </div>
                     <div class="project-links">
                         <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">

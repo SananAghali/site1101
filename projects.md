@@ -29,9 +29,13 @@ description: Check out my latest projects and work
                         <span class="tag">Electronics</span>
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
-                            <i class="fas fa-external-link-alt"></i> Live Demo
+                        <a href="https://youtu.be/OmDdKfLJRE?si=DJI7PmpJq--VJ3mp"
+                            class="project-link"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                                <i class="fas fa-external-link-alt"></i> Live Demo
                         </a>
+
                         <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
                             <i class="fab fa-github"></i> Source Code
                         </a>
@@ -54,9 +58,13 @@ description: Check out my latest projects and work
                         <span class="tag">Community Engagement</span>
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
-                            <i class="fas fa-external-link-alt"></i> Live Demo
+                        <a href="https://youtu.be/FSt36KoL5Lw?si=XvMymc73IgRnZZa9"
+                            class="project-link"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                                <i class="fas fa-external-link-alt"></i> Live Demo
                         </a>
+
                         <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
                             <i class="fab fa-github"></i> Source Code
                         </a>

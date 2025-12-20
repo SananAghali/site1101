@@ -14,13 +14,14 @@ description: Get in touch with me
 <section class="contact-content">
     <div class="container">
         <div class="contact-grid">
+            <!-- Contact Information -->
             <div class="contact-info">
                 <h2>Contact Information</h2>
                 <p>Feel free to reach out through any of these channels:</p>
                 
                 <div class="contact-item">
                     <div class="contact-icon">
-                        <i class="fas fa-envelope"></i>
+                        <img src="{{ '/assets/images/email.png' | relative_url }}" alt="Email" class="contact-logo">
                     </div>
                     <div class="contact-details">
                         <h3>Email</h3>
@@ -30,7 +31,7 @@ description: Get in touch with me
 
                 <div class="contact-item">
                     <div class="contact-icon">
-                        <i class="fab fa-github"></i>
+                        <img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" class="contact-logo">
                     </div>
                     <div class="contact-details">
                         <h3>GitHub</h3>
@@ -40,7 +41,7 @@ description: Get in touch with me
 
                 <div class="contact-item">
                     <div class="contact-icon">
-                        <i class="fas fa-code"></i>
+                        <img src="{{ '/assets/images/codecademy.png' | relative_url }}" alt="Codecademy" class="contact-logo">
                     </div>
                     <div class="contact-details">
                         <h3>Codecademy</h3>
@@ -48,19 +49,21 @@ description: Get in touch with me
                     </div>
                 </div>
 
+                <!-- Social Links -->
                 <div class="social-contact">
                     <h3>Follow Me</h3>
                     <div class="social-links">
                         <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-                            <i class="fab fa-github"></i>
+                            <img src="{{ '/assets/images/github.png' | relative_url }}" alt="GitHub" class="social-logo">
                         </a>
                         <a href="https://www.codecademy.com/profiles/{{ site.codecademy_username }}" target="_blank" rel="noopener noreferrer" aria-label="Codecademy">
-                            <i class="fas fa-code"></i>
+                            <img src="{{ '/assets/images/codecademy.png' | relative_url }}" alt="Codecademy" class="social-logo">
                         </a>
                     </div>
                 </div>
             </div>
 
+            <!-- Contact Form -->
             <div class="contact-form-section">
                 <h2>Send a Message</h2>
                 <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
@@ -90,4 +93,3 @@ description: Get in touch with me
         </div>
     </div>
 </section>
-

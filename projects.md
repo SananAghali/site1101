@@ -79,21 +79,33 @@ description: Check out my latest projects and work
                     </div>
                 </div>
                 <div class="project-content">
-                    <h3>Project Three</h3>
-                    <p>A description of your third project. Explain what it does, what technologies you used, and what you learned from it.</p>
+                    <h3>Project Three – Personal Website</h3>
+                    <p>
+                        This individual project was completed for SITE 1101: Principles of Information Systems. As part of the assignment, I developed my personal portfolio website to showcase my background, skills, and projects. The website was built using HTML, CSS, and JavaScript, and hosted on GitHub Pages. During this project, I gained practical experience with Git version control, modular and clean coding practices, and responsive web design suitable for both desktop and mobile devices. The website includes Home, About, and Projects pages, a navigation bar, footer, and links to my GitHub and Codecademy profiles.
+                    </p>
                     <div class="project-tags">
-                        <span class="tag">Web Design</span>
-                        <span class="tag">UI/UX</span>
-                        <span class="tag">CSS</span>
+                        <span class="tag">Personal Website</span>
+                        <span class="tag">Web Development</span>
+                        <span class="tag">HTML/CSS/JavaScript</span>
                     </div>
                     <div class="project-links">
-                        <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
+                        <!-- Live website -->
+                        <a href="https://sananaghali.github.io/site1101" 
+                        class="project-link" 
+                        target="_blank" 
+                        rel="noopener noreferrer">
                             <i class="fas fa-external-link-alt"></i> Live Demo
                         </a>
-                        <a href="#" class="project-link" target="_blank" rel="noopener noreferrer">
+                        
+                        <!-- Source Code on GitHub -->
+                        <a href="https://github.com/sananaghali/site1101" 
+                        class="project-link" 
+                        target="_blank" 
+                        rel="noopener noreferrer">
                             <i class="fab fa-github"></i> Source Code
                         </a>
                     </div>
+
                 </div>
             </div>
         </div>
